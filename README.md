@@ -6,6 +6,14 @@
   - @raulfileaofficial (Instagram)
   - raulfilea@gmail.com
 
+Here are some of the projects I worked on as a freelancer:
+- https://harul.ro
+- https://scoalaharul.ro
+- https://allelon.ro
+- https://bjt.ro
+- https://latinlink.org/
+
+
 <!---
 RaulFilea/RaulFilea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
