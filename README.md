@@ -11,7 +11,7 @@ Here are some of the projects I worked on as a freelancer:
 - https://scoalaharul.ro
 - https://allelon.ro
 - https://bjt.ro
-- https://latinlink.org/
+- https://latinlink.org
 
 
 <!---
