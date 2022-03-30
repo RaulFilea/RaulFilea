@@ -3,7 +3,7 @@
 - 🌱 I’m currently stydying Computer Science at West University of Timisoara, Romania.
 - 💞️ I’m looking to collaborate on website creation and maintenance and video/photo production.
 - 📫 Contact me:
-  - @raulfileaofficial (Instagram)
+  - [@raulfileaofficial](https://instagram.com/raulfileaofficial)
   - raulfilea@gmail.com
 
 Here are some of the projects I worked on as a freelancer:
